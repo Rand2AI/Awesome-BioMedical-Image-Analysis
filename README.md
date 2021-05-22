@@ -1,2 +1,2 @@
-# Awesome-BioMedical-Image-Analysis
-Awesome BioMedical Image Analysis
+# Awesome-BioMedical-Informatics
+Awesome BioMedical Informatics
